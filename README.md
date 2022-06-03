@@ -1,6 +1,7 @@
 # Simple Email Tool
 This is a simple command line program to send emails, and supports adding 
-bodies from a text file or formatted bodies in HTML or Markdown.
+bodies read from a text file, or writing formatted bodies from files given 
+in HTML or Markdown.
 
 ## Setup and Configuration
 There is only one dependency outside of the Python Standard Library: 
