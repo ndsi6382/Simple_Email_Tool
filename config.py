@@ -8,4 +8,5 @@ Username = "example@mail.com"
 Password = "saving_in_environment_variable_is_recommended_over_this"
 
 # This field is optional, and appears as the Sender Name in the email.
+# This will not be prompted for if left blank.
 Name = "John Smith"
